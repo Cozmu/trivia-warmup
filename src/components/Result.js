@@ -7,7 +7,7 @@ class Result extends React.Component {
       /*
         Segundo desafio: Neste componente você deve exibir o resultado do input digitado no componente Home.
 
-        Terceiro desafio: Utilizando a API https://github.com/ThiagoNelsi/dicio-api, você irá trazer o significado desta palavra.
+        Terceiro desafio: Utilizando a API https://github.com/ThiagoNelsi/dicio-api, você irá trazer o significado desta palavra (utilize o redux-thunk para isso).
       */
     )
   }
